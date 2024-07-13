@@ -1,6 +1,3 @@
-Here's a GitHub README file for your Pokémon classifier project:
-
-```markdown
 # Pokémon Classifier
 
 This project is a Pokémon image classifier built using neural networks with TensorFlow and Keras. The classifier can identify three Pokémon: Pikachu, Bulbasaur, and Meowth.
